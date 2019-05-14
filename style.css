@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+
+#navbar {
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
+}
+
+#title {
+	padding-left: 15px;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.design-img {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#funfont {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left:8px;
+	padding-right: 5px;
+}
+
+.core {
+	font-weight: bold;
+	line-height: 10rem;
+}
+
+#exemplar {
+	font-weight: bold;
+	line-height: 10rem;
+}
+
+.camposcoffee {
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.espn {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+#websites {
+	margin-bottom: 10rem;
+}
